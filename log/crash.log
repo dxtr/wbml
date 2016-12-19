@@ -1,0 +1,18 @@
+2016-12-19 03:04:16 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.316.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',watcher,[error_logger,'Elixir.Logger.ErrorHandler',{true,false,500},link]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2016-12-19 03:05:24 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.316.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',watcher,[error_logger,'Elixir.Logger.ErrorHandler',{true,false,500},link]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2016-12-19 03:33:50 =SUPERVISOR REPORT====
+     Supervisor: {local,'Elixir.Logger.Supervisor'}
+     Context:    child_terminated
+     Reason:     normal
+     Offender:   [{pid,<0.316.0>},{id,'Elixir.Logger.ErrorHandler'},{mfargs,{'Elixir.Logger.Watcher',watcher,[error_logger,'Elixir.Logger.ErrorHandler',{true,false,500},link]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
